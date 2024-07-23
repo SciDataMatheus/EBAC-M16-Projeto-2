@@ -59,7 +59,7 @@ Será utilizado árvores de regressão para prever valores contínuos. Diferente
 * Teste R²: 0.34664533622626315
 * Teste MSE: 36996641.10373707
 
-## Implatação 
+## Implantação 
 
 Minha integração com o Streamlit envolve carregar o modelo de previsão de renda desenvolvido no Jupyter Notebook e coletar dados de um usuário hipotético para prever sua renda
 
