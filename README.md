@@ -62,3 +62,6 @@ Será utilizado árvores de regressão para prever valores contínuos. Diferente
 ## Implatação 
 
 Minha integração com o Streamlit envolve carregar o modelo de previsão de renda desenvolvido no Jupyter Notebook e coletar dados de um usuário hipotético para prever sua renda
+
+https://github.com/user-attachments/assets/2c11a4c7-7dd1-4f14-89c2-24b329ddb5c3
+
