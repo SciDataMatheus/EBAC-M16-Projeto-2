@@ -118,6 +118,6 @@ if st.button('Salvar dados e prever renda'):
 
     # Prevendo a renda 
 
-    pau_mole = modelo.predict(df_streamlit)
+    vasco = modelo.predict(df_streamlit)
     st.write("Resultados das Previsões:")
-    st.write(pau_mole[0])
+    st.write(vasco[0])
